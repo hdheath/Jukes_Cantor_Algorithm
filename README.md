@@ -3,6 +3,8 @@
 ## Overview
 This Python module is designed to calculate the Jukes-Cantor genetic distance between sequences and to construct a phylogenetic tree using the neighbor-joining method. The Jukes-Cantor model is a formula used to estimate the number of nucleotide substitutions that have occurred in the DNA since two species have diverged from a common ancestor. The neighbor-joining method is a bottom-up clustering approach for the creation of phylogenetic trees, usually based on genetic distance.
 
+https://en.wikipedia.org/wiki/Substitution_model
+
 ## Requirements
 - Python 3.x
 - NumPy
